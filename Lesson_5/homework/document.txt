@@ -1,0 +1,20 @@
+Artificial Intelligence
+
+Artificial Intelligence (AI) is a technology that allows
+computers to perform tasks that normally require human intelligence.
+
+AI is used in many areas, including medicine, education,
+transportation and industry.
+
+In medicine, AI helps doctors analyze medical images
+and identify diseases.
+
+In education, AI helps students learn and provides
+personalized learning experiences.
+
+In transportation, AI is used in navigation systems
+and self-driving cars.
+
+The main advantages of AI are automation,
+fast data processing and the ability to analyze
+large amounts of information.

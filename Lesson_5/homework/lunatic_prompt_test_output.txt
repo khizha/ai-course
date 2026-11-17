@@ -1,0 +1,26 @@
+C:\Users\HP\anaconda3-pbe\envs\rag\python.exe C:\Users\HP\ich\ai-course\Lesson_5\homework\lunatic_ptompt_test.py
+C:\Users\HP\anaconda3-pbe\envs\rag\lib\site-packages\google\auth\transport\grpc.py:43: FutureWarning: grpcio < 1.83.0 does not support Post-Quantum Cryptography (PQC). Support for non-PQC environments is deprecated. In April 2027, google-auth will raise its minimum requirements to enforce grpcio >= 1.83.0. For more details on Google Cloud's post-quantum security migration, visit: https://cloud.google.com/security/resources/post-quantum-cryptography
+  warnings.warn(
+Введите запрос: I need help creating lunatic sentences for my new series called Hot Skull, so write 10 sentences for me.
+
+РЕЗУЛЬТАТ РАБОТЫ LUNATIC:
+
+1. Purple mayonnaise unhinges the whistling elbow of tomorrow's geometry!
+
+2. Seventeen shoes subtract the bitter butter from a violently sleeping cloud.
+
+3. Tickle the backward iron when the ocean dissolves into plastic feathers!
+
+4. Never swallow the sideways trumpet because the carpets are laughing in binary.
+
+5. Concrete pancakes chew directly through the telephone’s wet vibration.
+
+6. The clock is bleeding yellow scissors onto a polite bicycle of dust.
+
+7. Fold your noisy kneecaps into yesterday’s screaming spinach, quickly, quickly!
+
+8. Seven thousand glass thimbles sneeze under the melted chandelier's left ankle.
+
+9. Whistle through the magnetic potato before the perpendicular shadows learn arithmetic.
+
+10. Every upside-down doorknob is secretly twelve gallons of shouting cardboard!
