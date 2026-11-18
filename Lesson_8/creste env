@@ -1,0 +1,15 @@
+conda create -n whisper-cpu python=3.10
+
+conda activate <env name>
+
+conda list  --- посмотреть, какие есть зависимости
+
+pip install ffmpeg
+
+conda install -c conda-forge ffmpeg -y
+
+pip uninstall ffmpeg -y
+
+
+
+
